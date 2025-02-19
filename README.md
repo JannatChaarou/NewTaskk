@@ -16,11 +16,7 @@ Ce projet est une application de gestion des tâches développée avec Laravel 1
 
 . Gestion des tâches (CRUD)
 
-. Gestion des catégories
-
-. Gestion des priorités
-
-. Authentification a
+. Authentification 
 
 . Génération de rapports PDF
 
